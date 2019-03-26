@@ -1,0 +1,115 @@
+[
+  {
+    "name": "Burch Scott",
+    "email": "burch.scott@example.net",
+    "age": 41,
+    "role": "admin",
+    "isActive": true,
+    "avatarUrl": "https://ui-avatars.com/api/?name=Burch+Scott",
+    "skills": [
+      "scala",
+      "css",
+      "js",
+      "java"
+    ]
+  },
+  {
+    "name": "Turner Fox",
+    "email": "turner.fox@example.name",
+    "age": 59,
+    "role": "guess",
+    "isActive": true,
+    "avatarUrl": "https://ui-avatars.com/api/?name=Turner+Fox",
+    "skills": [
+      "java",
+      "css",
+      "node",
+      "mongo"
+    ]
+  },
+  {
+    "name": "Barbra Pollard",
+    "email": "barbra.pollard@example.io",
+    "age": 39,
+    "role": "guess",
+    "isActive": true,
+    "avatarUrl": "https://ui-avatars.com/api/?name=Barbra+Pollard",
+    "skills": [
+      "html",
+      "js",
+      "java",
+      "css",
+      "js"
+    ]
+  },
+  {
+    "name": "Pierce Nolan",
+    "email": "pierce.nolan@example.info",
+    "age": 38,
+    "role": "guess",
+    "isActive": true,
+    "avatarUrl": "https://ui-avatars.com/api/?name=Pierce+Nolan",
+    "skills": [
+      "html",
+      "js"
+    ]
+  },
+  {
+    "name": "Mathis Nelson",
+    "email": "mathis.nelson@example.biz",
+    "age": 21,
+    "role": "admin",
+    "isActive": true,
+    "avatarUrl": "https://ui-avatars.com/api/?name=Mathis+Nelson",
+    "skills": [
+      "mongo",
+      "scala",
+      "html",
+      "node",
+      "css"
+    ]
+  },
+  {
+    "name": "Jeannette Coleman",
+    "email": "jeannette.coleman@example.us",
+    "age": 48,
+    "role": "guess",
+    "isActive": false,
+    "avatarUrl": "https://ui-avatars.com/api/?name=Jeannette+Coleman",
+    "skills": [
+      "mongo",
+      "mongo",
+      "node",
+      "css"
+    ]
+  },
+  {
+    "name": "Alyson Reynolds",
+    "email": "alyson.reynolds@example.biz",
+    "age": 59,
+    "role": "guess",
+    "isActive": false,
+    "avatarUrl": "https://ui-avatars.com/api/?name=Alyson+Reynolds",
+    "skills": [
+      "html",
+      "scala",
+      "scala",
+      "html"
+    ]
+  },
+  {
+    "name": "Johns King",
+    "email": "johns.king@example.org",
+    "age": 35,
+    "role": "guess",
+    "isActive": true,
+    "avatarUrl": "https://ui-avatars.com/api/?name=Johns+King",
+    "skills": [
+      "css",
+      "node",
+      "js",
+      "java",
+      "java"
+    ]
+  }
+]
