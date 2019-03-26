@@ -48,8 +48,13 @@ User.create(users)
       .save()
       .then(user => console.info(user))
   })
-  .then(() => mongoose.connection.dropDatabase())
-  .then(() => mongoose.disconnect())
-  .then(() => console.info('Successfully disconnected, bye!'))
   .catch(error => console.error(error))
-
+  .then(() => {
+    console.info('Dropping database!')
+    return mongoose.connection.dropDatabase()
+  })
+  .then(() => {
+    console.info('Disconnecting...')
+    return mongoose.disconnect()
+  })
+  .then(() => console.info('Successfully disconnected, bye!'))
